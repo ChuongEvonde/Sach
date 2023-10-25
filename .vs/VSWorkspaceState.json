@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SachOnline",
+    "\\SachOnline\\SachOnline",
+    "\\SachOnline\\SachOnline\\Areas",
+    "\\SachOnline\\SachOnline\\Areas\\Admin",
+    "\\SachOnline\\SachOnline\\Areas\\Admin\\Views",
+    "\\SachOnline\\SachOnline\\Controllers",
+    "\\SachOnline\\SachOnline\\Views",
+    "\\SachOnline\\SachOnline\\Views\\SachOnline",
+    "\\SachOnline\\SachOnline\\Views\\User"
+  ],
+  "SelectedNode": "\\SachOnline\\SachOnline\\Views\\User\\DangNhap.cshtml",
+  "PreviewInSolutionExplorer": false
+}
