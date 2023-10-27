@@ -18,6 +18,7 @@ namespace SachOnline.Areas.Admin
                 "Admin_default",
                 "Admin/{controller}/{action}/{id}",
                 new { action = "Index", id = UrlParameter.Optional }
+                
             );
         }
     }

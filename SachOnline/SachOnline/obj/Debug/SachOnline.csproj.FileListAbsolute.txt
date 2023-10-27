@@ -147,3 +147,4 @@ D:\workpage\LTW\LTWSACH\SachOnline\SachOnline\bin\roslyn\System.Buffers.dll
 D:\workpage\LTW\LTWSACH\SachOnline\SachOnline\bin\roslyn\System.Memory.dll
 D:\workpage\LTW\LTWSACH\SachOnline\SachOnline\bin\roslyn\System.Numerics.Vectors.dll
 D:\workpage\LTW\LTWSACH\SachOnline\SachOnline\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\workpage\LTW\LTWSACH\SachOnline\SachOnline\obj\Debug\SachOnline.csproj.AssemblyReference.cache
